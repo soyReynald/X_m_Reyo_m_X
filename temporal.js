@@ -1,3 +1,4 @@
+// Código gs
 function whereIsIt(verseChapter, book, verseNumber) {
   if (verseChapter == 40 && book == 416, verseNumber == 2 ) {
     var questionInVerse = prompt("Es sabiduría contender con el Omnipotente?El que disputa con Dios, responda a esto.");
